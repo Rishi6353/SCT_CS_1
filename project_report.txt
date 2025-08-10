@@ -1,0 +1,23 @@
+Project Report: Caesar Cipher Encryption & Decryption
+
+Introduction:
+This project implements the Caesar Cipher algorithm for encrypting and decrypting text.
+It is a substitution cipher where each letter in the plaintext is shifted by a fixed
+number of positions in the alphabet.
+
+Features:
+- Encrypt and decrypt text
+- Supports uppercase and lowercase letters
+- Keeps non-alphabetic characters unchanged
+- User-friendly input prompts
+
+How it Works:
+1. User enters a message
+2. User provides a shift value (0-25)
+3. User chooses encryption or decryption
+4. Program shifts letters accordingly
+5. Result is displayed
+
+Conclusion:
+The Caesar Cipher is a simple example of classical cryptography.
+It is not secure for modern use but is excellent for learning encryption basics.
